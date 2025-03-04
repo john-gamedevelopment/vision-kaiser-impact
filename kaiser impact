@@ -1,0 +1,1686 @@
+--[[
+   __  __                 __                                             _ __ 
+  / /_/ /_  ___     _____/ /_____  _________ _____ ____     __  ______  (_) /_
+ / __/ __ \/ _ \   / ___/ __/ __ \/ ___/ __ `/ __ `/ _ \   / / / / __ \/ / __/
+/ /_/ / / /  __/  (__  ) /_/ /_/ / /  / /_/ / /_/ /  __/  / /_/ / / / / / /_  
+\__/_/ /_/\___/  /____/\__/\____/_/   \__,_/\__, /\___/   \__,_/_/ /_/_/\__/  
+                                           /____/                             
+much love and enjoy <3 - john
+]]--
+
+([[This file was protected with MoonSec V3]]):gsub(".+", (function(a)
+	_QGgjtnfGlOtm = a;
+end));
+return (function(d, ...)
+	local o;
+	local f;
+	local c;
+	local u;
+	local r;
+	local t;
+	local e = 24915;
+	local n = 0;
+	local l = {};
+	while n < 341 do
+		n = n + 1;
+		while (n < 695) and ((e % 3474) < 1737) do
+			n = n + 1;
+			e = (e + 626) % 24665;
+			local h = n + e;
+			if ((e % 4462) < 2231) then
+				e = (e * 469) % 19748;
+				while (n < 895) and ((e % 14032) < 7016) do
+					n = n + 1;
+					e = (e + 828) % 47290;
+					local t = n + e;
+					if ((e % 18892) >= 9446) then
+						e = (e * 779) % 5632;
+						local e = 74841;
+						if not l[e] then
+							l[e] = 1;
+							r = {};
+						end
+					elseif ((e % 2) ~= 0) then
+						e = (e + 185) % 46399;
+						local e = 43480;
+						if not l[e] then
+							l[e] = 1;
+							u = tonumber;
+						end
+					else
+						e = (e + 494) % 37004;
+						n = n + 1;
+						local e = 24823;
+						if not l[e] then
+							l[e] = 1;
+							o = string;
+						end
+					end
+				end
+			elseif ((e % 2) ~= 0) then
+				e = (e * 595) % 37073;
+				while (n < 380) and ((e % 17028) < 8514) do
+					n = n + 1;
+					e = (e * 747) % 13960;
+					local c = n + e;
+					if ((e % 8228) < 4114) then
+						e = (e - 351) % 8018;
+						local e = 72671;
+						if not l[e] then
+							l[e] = 1;
+						end
+					elseif ((e % 2) ~= 0) then
+						e = (e * 952) % 36737;
+						local e = 61829;
+						if not l[e] then
+							l[e] = 1;
+						end
+					else
+						e = (e - 185) % 48214;
+						n = n + 1;
+						local e = 56011;
+						if not l[e] then
+							l[e] = 1;
+							function f(f)
+								local e = 1;
+								local function l(n)
+									e = e + n;
+									return f:sub(e - n, e - 1);
+								end
+								while true do
+									local n = l(1);
+									if (n == "\5") then
+										break;
+									end
+									local e = o.byte(l(1));
+									local e = l(e);
+									if (n == "\2") then
+										e = r.urfqhDrg(e);
+									elseif (n == "\3") then
+										e = e ~= "\0";
+									elseif (n == "\6") then
+										t[e] = function(n, e)
+											return d(8, nil, d, e, n);
+										end;
+									elseif (n == "\4") then
+										e = t[e];
+									elseif (n == "\0") then
+										e = t[e][l(o.byte(l(1)))];
+									end
+									local n = l(8);
+									r[n] = e;
+								end
+							end
+						end
+					end
+				end
+			else
+				e = (e - 969) % 45513;
+				n = n + 1;
+				while (n < 805) and ((e % 5714) < 2857) do
+					n = n + 1;
+					e = (e + 845) % 30432;
+					local f = n + e;
+					if ((e % 10480) >= 5240) then
+						e = (e * 221) % 11396;
+						local e = 30656;
+						if not l[e] then
+							l[e] = 1;
+							t = getfenv and getfenv();
+						end
+					elseif ((e % 2) ~= 0) then
+						e = (e * 890) % 38172;
+						local e = 55977;
+						if not l[e] then
+							l[e] = 1;
+							c = "\4\8\116\111\110\117\109\98\101\114\117\114\102\113\104\68\114\103\0\6\115\116\114\105\110\103\4\99\104\97\114\88\88\113\99\116\108\85\105\0\6\115\116\114\105\110\103\3\115\117\98\114\66\95\116\69\118\101\74\0\6\115\116\114\105\110\103\4\98\121\116\101\115\122\99\107\84\113\86\79\0\5\116\97\98\108\101\6\99\111\110\99\97\116\99\81\121\80\99\97\120\83\0\5\116\97\98\108\101\6\105\110\115\101\114\116\120\106\83\102\73\109\106\110\5";
+						end
+					else
+						e = (e * 960) % 30952;
+						n = n + 1;
+						local e = 53251;
+						if not l[e] then
+							l[e] = 1;
+							t = (not t and _ENV) or t;
+						end
+					end
+				end
+			end
+		end
+		e = (e - 371) % 48000;
+	end
+	f(c);
+	local n = {};
+	for e = 0, 255 do
+		local l = r.XXqctlUi(e);
+		n[e] = l;
+		n[l] = e;
+	end
+	local function h(e)
+		return n[e];
+	end
+	local l = (function(c, f)
+		local o, l = 1, 16;
+		local n = {{},{},{}};
+		local t = -1;
+		local e = 1;
+		local d = c;
+		while true do
+			n[3][r.rB_tEveJ(f, e, (function()
+				e = o + e;
+				return e - 1;
+			end)())] = (function()
+				t = t + 1;
+				return t;
+			end)();
+			if (t == 15) then
+				t = "";
+				l = 0;
+				break;
+			end
+		end
+		local t = #f;
+		while e < (t + 1) do
+			n[2][l] = r.rB_tEveJ(f, e, (function()
+				e = o + e;
+				return e - 1;
+			end)());
+			l = l + 1;
+			if ((l % 2) == 0) then
+				l = 0;
+				r.xjSfImjn(n[1], (h((((n[3][n[2][0]] or 0) * 16) + (n[3][n[2][1]] or 0) + d) % 256)));
+				d = c + d;
+			end
+		end
+		return r.cQyPcaxS(n[1]);
+	end);
+	f(l(143, "wt;Q:,&->5{)u?_j-&"));
+	f(l(80, "Zt8hmDg/l*.Fq7Q{FsgglhhmQ8l*hQQ/hmmmaD.7grjFql/htFFD/qh*788m7D{B*hmt{q.qhl{D*.DDJgFOlDtW/t8DmS{8**mQ<mllDltm**gQ!l7*DlqJ/g*hmm{8**mQ{/mDD7Vtqmghtl.mgDV.FDgDm4q8.*QE*m.7DttmFlSDtqqm/DhlQ%lmtDqg*{8.>m.8gD.mDq/htD7m/78DQmltmmQt*8mq{DFmhF{8*Fml{gF8lfqm///ghDQh.mm{98/hh8{tqmg.{77*g{8Q/m8mm/Qt**Dm7Fltg*V8FhD8GL78t8qt.*glmm7h/{D8Qllqmm.mDl/mt{7hlmh87*lQh/qF.8m*Qt.gD{uD*/rTFD7m/t887qlD7g{D*QDG{t.hDFWQ*gmhi{.hDh8lQ88m7g{D*QDz{t.hDFE8Fl/.8gqhDht{7Q8m7D{d.8m*{QFmgmt.qlg/8..mDDtg/m8gmhQD*qmD{hFmDq{D.tDl{D7mD{t*/k8mh7Qt.mml*D.gDq2{F{/8{t7/D/88Qm/thqq7hD"));
+	local e = -7873 + (function()
+		local l, n = 0, 1;
+		(function(e)
+			e(e(e));
+		end)(function(e)
+			if (l > 377) then
+				return e;
+			end
+			l = l + 1;
+			n = (n * 970) % 9146;
+			if ((n % 800) >= 400) then
+				return e(e(e));
+			else
+				return e;
+			end
+			return e;
+		end);
+		return n;
+	end)();
+	local de = getfenv or (function()
+		return _ENV;
+	end);
+	local h = r.bhzvcC_n or r.nFC_CChr;
+	local m = 1;
+	local t = 3;
+	local c = 4;
+	local f = 2;
+	local function ee(y, ...)
+		local s = l(e, "2xf5y/QwAc(=}^gZAQZfQ=gyQ&gQyZ}AyxJf(AxcAQ#}AQZcQ^^yQ(g5Qx=Qym}(y/y^}w5}=/fg>gAx_QwwAgbgw^ZQQZ5x}Zy(}AykAwf5cgxxcw(/fQcyd^AQy=gw/y}=yZ(}yx(Zyt(/f=5/=Afyc^xQgg/c}AQx^^QR^5yycg5}cA5Q(A=w5^(QxZcAQQZ^QAgg5g^}/w^/y^(/5E=Q55cZxfA^(yfyc5 }A/y/^}Qy=}yw}^y(=Qfc(y==/A((f5c}QcZQwSZ5xc^A/y^dyfwQyQ(c5y/(f5cgxycfZ}w5Z^Qw^ZxygyyZ^5y1wxxw=ff=(5CxA}>55cgA5gAwjcwQgZQA5A==5}}rN=(^fcw5xxA=VwwAc>u^wZZAwxf^^fy(}555((5y5}=cf=(yx^gQw=gcw(^ZQ/^ZgAww^w/a}cAZf((5x=wcLyw=ZP/^ZwQg^g/}}g/5(x5=(ZfA(ffywmx}c/1}xQc/h/wgZw=5/x}5y^=/5H=(fy((=xf=(5x}c/f5Awp_wcZ/Qggy/^^Q=^f^=A==55(}f/cg(ZZ5w(yfZ}wyg^QQ^Z/A^x5(6f5Z=}fg(wfSgZwwggwAg}QA(fg=QA^(/5}}cwf5(yxZc^WwAgcwxxAQZZwA/A}=/W}x^A/A}wyb=cwcx-cAZXw=kxwgg(/^^AgZQ=^g/w^%=g5t(=x/cdxxff(yxxA(t5^5/Q^w/=(QyA}yPg(}fQ(fx5fc(x^(x(U/wwQo}Z5mQ(gf/=^yy^(=Qcy/Zx(=f5c}x/AgtwA3x^=fg}Qy^^/QQZfZyfA/Z5fZ=Qxgcwx&^=Qwg=Q-^Qyc}qy}=QfgcQ5)(yfeAAXwwgc/NZAyZ^wQ5y^Q/Q}w^Q//}/5g=wA5x^AwZ}A7}ZQwg=QywyZbQ5^}//xxA^5fc(xZcs(wfycQ;ZAAy}^ZQ}(Z/y}f5}/5^5yf==5yZ5AZxxw^gyQZZ/wf^(QlQ(gx/c^fy=0wyH}ofZ(AfxgQAfZ=wB^y/}^5/^^xy^/Q}^yQ=Z5A^}f((5x}c=f5Aw<xwcZ/Q=g//^^QyZ}}/x=(55(}fAcgxAc #c=5Z=wyg^Qw^Z/A^xQ(}y5}=wfg(wfF(=xfc^sgw^ZcQZZwQx^(/5g}yQ=g5(=6f}(ff^cyf^AwZZw=ZxQ^g5wD^//y^cy#==5f=/fycgxQcf>AA/P(w5g}Q/gA/w^xyc}Qy==yf^(QyccAxfA(F5cyZ/w0gwQ5^c/f}=/Qgw5Q=ffA(/x(c5%}(/45wwZ5Qcg//=^/y^^Ay^=A5/((fgc}x/Agxcc5Zcwwg=wx^^/Q}Z/(}^5(=cf}(wxgcwxaAcx(w=ZwQ^g}/Z^(/x^}y}=}5c(g5x( xccf*=AAZ^w=gZQAgx/(^5Q}}Q5g=}5k(gff(}xy(^!wwZZ^wxgZQ5Zx//}gww}b5==f5F(yxgcQfx(/lxw^Z5QZg//g^wQfgQyf=Z5y=cfQcZxA(5fwA5Oxw/ZxQwg?/c^QQw}yyN=Q/c(Affc(f/cQh/A/ZwwQgcQf^=wy^/yQ}Q5A=Af(((x}(wxxAwUcwczjQ=gy/^^Q/w}AyA=(5}(}fwcg5wccJcAcZ=w=g^QZ^ZQ(gxy(}}5}=(fg(wfrccfNA=:=w^ZZQZg(QxZ(Qc}}y}=g5g=_5f(ff^=xK^AZZZAAZxQ(g5/}ZAyg}gyo}f5f(^fy=^xZAZIZAxJxw5ZZQ/Z_/=^?/f}fy5=yf^(QxZc^xxcyl5wgZ/QggwQlZQ/f^yyy}w5Q(ZfA(xfwc5x5A/ZgwwZxQcgQA(^y/>}Q/c=A5f((f5}^x/AgDwAxZcwfg=w}^^/Q}ZyA}g5(=5f}(Qxgcwx3c=Nww=ZyQ^Zf/Z^A/x^}/^=}5/(gf}(dxccf5xA(Z^wQgZQggx/=^5/y}/yf}w5a(cff(xxyAg QA5;Awxg(Q5g5//}Zyw}nQ(=ff=(yxgcQ!ZAAx5AyZ5Q}g/Q)^w/_}cQf^Q5y(^fQcZxAc}7((5xww/ggQwgV/c^Qy=gyyZ=Q5I(Afxc(frA}f/c(ZwwfgcQ5^=/^}^/A}Z5A=/f((yx}c/>gAwx}wcZyQ=gA/^^AyZ^(y/=(5Q(}fwcgxwc1fc(ZZ=wwg^Qc^Z/Z^x/}g(5}=(fg(^fHccxfA=fxw^ZcQZg^Qx^}/5g}Qh=g5==Df}(fxgcyf^AAZZw}ZxQgg5QQ^//yg}yv=Z5f(=fycgxQcb#AAxfAw5g}Q/g4/w^,yc}fyZ=y5x(Qf/cAxfA(I5cyZ/QggwQx^c/f}=");
+		local n = 0;
+		r.HUJUVPuP(function()
+			r.KAybcRPr();
+			n = n + 1;
+		end);
+		local function e(e, l)
+			if l then
+				return n;
+			end
+			n = e + n;
+		end
+		local l, n, a = d(0, d, e, s, r.szckTqVO);
+		local function o()
+			local l, n = r.szckTqVO(s, e(1, 3), e(5, 6) + 2);
+			e(2);
+			return (n * 256) + l;
+		end
+		local g = true;
+		local g = 0;
+		local function p()
+			local t = n();
+			local e = n();
+			local f = 1;
+			local t = (l(e, 1, 20) * (2 ^ 32)) + t;
+			local n = l(e, 21, 31);
+			local e = -1 ^ l(e, 32);
+			if (n == 0) then
+				if (t == g) then
+					return e * 0;
+				else
+					n = 1;
+					f = 0;
+				end
+			elseif (n == 2047) then
+				return ((t == 0) and (e * (1 / 0))) or (e * NaN);
+			end
+			return r.dEFoJtbu(e, n - 1023) * (f + (t / (2 ^ 52)));
+		end
+		local b = n;
+		local function k(n)
+			local l;
+			if not n then
+				n = b();
+				if (n == 0) then
+					return "";
+				end
+			end
+			l = r.rB_tEveJ(s, e(1, 3), (e(5, 6) + n) - 1);
+			e(n);
+			local e = "";
+			for n = 1 + g, #l do
+				e = e .. r.rB_tEveJ(l, n, n);
+			end
+			return e;
+		end
+		local g = #r.KriQfoeG(u("\49.\48")) ~= 1;
+		local e = n;
+		local function ee(...)
+			return {...}, r.lUQXEtOY("#", ...);
+		end
+		local function fe()
+			local e = {};
+			local h = {};
+			local s = {};
+			local u = {s,h,nil,e};
+			local e = n();
+			local d = {};
+			for t = 1, e do
+				local l = a();
+				local e;
+				if (l == 2) then
+					e = a() ~= #{};
+				elseif (l == 1) then
+					local n = p();
+					if (g and r.DUJEEpBy(r.KriQfoeG(n), ".(\48+)$")) then
+						n = r.AwGbtQlM(n);
+					end
+					e = n;
+				elseif (l == 3) then
+					e = k();
+				end
+				d[t] = e;
+			end
+			u[3] = a();
+			for e = 1, n() do
+				h[e - #{1}] = fe();
+			end
+			for u = 1, n() do
+				local e = a();
+				if (l(e, 1, 1) == 0) then
+					local r = l(e, 2, 3);
+					local h = l(e, 4, 6);
+					local e = {o(),o(),nil,nil};
+					if (r == 0) then
+						e[t] = o();
+						e[c] = o();
+					elseif (r == #{1}) then
+						e[t] = n();
+					elseif (r == y[2]) then
+						e[t] = n() - (2 ^ 16);
+					elseif (r == y[3]) then
+						e[t] = n() - (2 ^ 16);
+						e[c] = o();
+					end
+					if (l(h, 1, 1) == 1) then
+						e[f] = d[e[f]];
+					end
+					if (l(h, 2, 2) == 1) then
+						e[t] = d[e[t]];
+					end
+					if (l(h, 3, 3) == 1) then
+						e[c] = d[e[c]];
+					end
+					s[u] = e;
+				end
+			end
+			return u;
+		end
+		local function te(l, n, e)
+			local t = n;
+			local t = e;
+			return u(r.DUJEEpBy(r.DUJEEpBy(({r.HUJUVPuP(l)})[2], n), e));
+		end
+		local function k(p, b, a)
+			local function te(...)
+				local o, _, g, ne, y, l, u, le, z, j, s, n;
+				local e = 0;
+				while -1 < e do
+					if (3 <= e) then
+						if (4 >= e) then
+							if (-1 <= e) then
+								for n = 18, 72 do
+									if (3 < e) then
+										j = r.lUQXEtOY("#", ...) - 1;
+										s = {};
+										break;
+									end
+									le = {};
+									z = {...};
+									break;
+								end
+							else
+								j = r.lUQXEtOY("#", ...) - 1;
+								s = {};
+							end
+						elseif (4 < e) then
+							repeat
+								if (6 > e) then
+									n = d(7);
+									break;
+								end
+								e = -2;
+							until true 
+						else
+							e = -2;
+						end
+					elseif (e <= 0) then
+						o = d(6, 1, 1, 29, p);
+						_ = d(6, 1, 2, 86, p);
+					elseif (-1 < e) then
+						for n = 18, 74 do
+							if (2 ~= e) then
+								g = d(6, 31, 3, 58, p);
+								y = ee;
+								ne = 0;
+								break;
+							end
+							l = -41;
+							u = -1;
+							break;
+						end
+					else
+						g = d(6, 31, 3, 58, p);
+						y = ee;
+						ne = 0;
+					end
+					e = e + 1;
+				end
+				for e = 0, j do
+					if (e >= g) then
+						le[e - g] = z[e + 1];
+					else
+						n[e] = z[e + 1];
+					end
+				end
+				local e = (j - g) + 1;
+				local e;
+				local d;
+				local function g(...)
+					while true do
+					end
+				end
+				while true do
+					if (l < -40) then
+						l = l + 42;
+					end
+					e = o[l];
+					d = e[m];
+					if (25 <= d) then
+						if (d <= 37) then
+							if (d > 30) then
+								if (34 <= d) then
+									if (d >= 36) then
+										if (34 <= d) then
+											for h = 29, 71 do
+												if (d ~= 36) then
+													local u = _[e[t]];
+													local h;
+													local d = {};
+													h = r.tKRKHFRp({}, {__index=function(n, e)
+														local e = d[e];
+														return e[1][e[2]];
+													end,__newindex=function(l, e, n)
+														local e = d[e];
+														e[1][e[2]] = n;
+													end});
+													for f = 1, e[c] do
+														l = l + 1;
+														local e = o[l];
+														if (e[m] == 46) then
+															d[f - 1] = {n,e[t]};
+														else
+															d[f - 1] = {b,e[t]};
+														end
+														s[#s + 1] = d;
+													end
+													n[e[f]] = k(u, h, a);
+													break;
+												end
+												n[e[f]] = a[e[t]];
+												break;
+											end
+										else
+											local u = _[e[t]];
+											local h;
+											local d = {};
+											h = r.tKRKHFRp({}, {__index=function(n, e)
+												local e = d[e];
+												return e[1][e[2]];
+											end,__newindex=function(l, e, n)
+												local e = d[e];
+												e[1][e[2]] = n;
+											end});
+											for f = 1, e[c] do
+												l = l + 1;
+												local e = o[l];
+												if (e[m] == 46) then
+													d[f - 1] = {n,e[t]};
+												else
+													d[f - 1] = {b,e[t]};
+												end
+												s[#s + 1] = d;
+											end
+											n[e[f]] = k(u, h, a);
+										end
+									elseif (d ~= 34) then
+										local d, g, b, k, r;
+										for s = 0, 5 do
+											if (3 > s) then
+												if (s <= 0) then
+													d = e[f];
+													n[d] = n[d](h(n, d + 1, e[t]));
+													l = l + 1;
+													e = o[l];
+												elseif (-3 <= s) then
+													for r = 22, 61 do
+														if (s ~= 1) then
+															n[e[f]] = a[e[t]];
+															l = l + 1;
+															e = o[l];
+															break;
+														end
+														d = e[f];
+														g = n[e[t]];
+														n[d + 1] = g;
+														n[d] = g[e[c]];
+														l = l + 1;
+														e = o[l];
+														break;
+													end
+												else
+													d = e[f];
+													g = n[e[t]];
+													n[d + 1] = g;
+													n[d] = g[e[c]];
+													l = l + 1;
+													e = o[l];
+												end
+											elseif (3 >= s) then
+												n[e[f]] = n[e[t]];
+												l = l + 1;
+												e = o[l];
+											elseif (s >= 0) then
+												for t = 45, 82 do
+													if (4 ~= s) then
+														d = e[f];
+														n[d](h(n, d + 1, u));
+														break;
+													end
+													d = e[f];
+													b, k = y(n[d](n[d + 1]));
+													u = (k + d) - 1;
+													r = 0;
+													for e = d, u do
+														r = r + 1;
+														n[e] = b[r];
+													end
+													l = l + 1;
+													e = o[l];
+													break;
+												end
+											else
+												d = e[f];
+												b, k = y(n[d](n[d + 1]));
+												u = (k + d) - 1;
+												r = 0;
+												for e = d, u do
+													r = r + 1;
+													n[e] = b[r];
+												end
+												l = l + 1;
+												e = o[l];
+											end
+										end
+									else
+										local f = e[f];
+										local d = n[f];
+										local o = n[f + 2];
+										if (o > 0) then
+											if (d > n[f + 1]) then
+												l = e[t];
+											else
+												n[f + 3] = d;
+											end
+										elseif (d < n[f + 1]) then
+											l = e[t];
+										else
+											n[f + 3] = d;
+										end
+									end
+								elseif (d > 31) then
+									if (d < 33) then
+										l = e[t];
+									else
+										n[e[f]] = e[t] ~= 0;
+									end
+								else
+									local e = e[f];
+									local t, l = y(n[e](n[e + 1]));
+									u = (l + e) - 1;
+									local l = 0;
+									for e = e, u do
+										l = l + 1;
+										n[e] = t[l];
+									end
+								end
+							elseif (d < 28) then
+								if (25 < d) then
+									if (d > 22) then
+										repeat
+											if (26 < d) then
+												local d, u;
+												for r = 0, 6 do
+													if (r >= 3) then
+														if (r >= 5) then
+															if (2 <= r) then
+																repeat
+																	if (5 < r) then
+																		n[e[f]] = a[e[t]];
+																		break;
+																	end
+																	d = e[f];
+																	n[d] = n[d](h(n, d + 1, e[t]));
+																	l = l + 1;
+																	e = o[l];
+																until true 
+															else
+																n[e[f]] = a[e[t]];
+															end
+														elseif (-1 < r) then
+															repeat
+																if (4 > r) then
+																	d = e[f];
+																	u = n[e[t]];
+																	n[d + 1] = u;
+																	n[d] = u[e[c]];
+																	l = l + 1;
+																	e = o[l];
+																	break;
+																end
+																n(e[f], e[t]);
+																l = l + 1;
+																e = o[l];
+															until true 
+														else
+															d = e[f];
+															u = n[e[t]];
+															n[d + 1] = u;
+															n[d] = u[e[c]];
+															l = l + 1;
+															e = o[l];
+														end
+													elseif (0 >= r) then
+														n[e[f]] = n[e[t]][e[c]];
+														l = l + 1;
+														e = o[l];
+													elseif (r == 1) then
+														n[e[f]] = n[e[t]][e[c]];
+														l = l + 1;
+														e = o[l];
+													else
+														n[e[f]] = n[e[t]][e[c]];
+														l = l + 1;
+														e = o[l];
+													end
+												end
+												break;
+											end
+											if (n[e[f]] == e[c]) then
+												l = l + 1;
+											else
+												l = e[t];
+											end
+										until true 
+									else
+										local d, u;
+										for r = 0, 6 do
+											if (r >= 3) then
+												if (r >= 5) then
+													if (2 <= r) then
+														repeat
+															if (5 < r) then
+																n[e[f]] = a[e[t]];
+																break;
+															end
+															d = e[f];
+															n[d] = n[d](h(n, d + 1, e[t]));
+															l = l + 1;
+															e = o[l];
+														until true 
+													else
+														n[e[f]] = a[e[t]];
+													end
+												elseif (-1 < r) then
+													repeat
+														if (4 > r) then
+															d = e[f];
+															u = n[e[t]];
+															n[d + 1] = u;
+															n[d] = u[e[c]];
+															l = l + 1;
+															e = o[l];
+															break;
+														end
+														n(e[f], e[t]);
+														l = l + 1;
+														e = o[l];
+													until true 
+												else
+													d = e[f];
+													u = n[e[t]];
+													n[d + 1] = u;
+													n[d] = u[e[c]];
+													l = l + 1;
+													e = o[l];
+												end
+											elseif (0 >= r) then
+												n[e[f]] = n[e[t]][e[c]];
+												l = l + 1;
+												e = o[l];
+											elseif (r == 1) then
+												n[e[f]] = n[e[t]][e[c]];
+												l = l + 1;
+												e = o[l];
+											else
+												n[e[f]] = n[e[t]][e[c]];
+												l = l + 1;
+												e = o[l];
+											end
+										end
+									end
+								else
+									n[e[f]] = n[e[t]][e[c]];
+								end
+							elseif (28 >= d) then
+								local f = e[f];
+								local d = n[f];
+								local o = n[f + 2];
+								if (o > 0) then
+									if (d > n[f + 1]) then
+										l = e[t];
+									else
+										n[f + 3] = d;
+									end
+								elseif (d < n[f + 1]) then
+									l = e[t];
+								else
+									n[f + 3] = d;
+								end
+							elseif (d >= 26) then
+								repeat
+									if (29 < d) then
+										n[e[f]] = n[e[t]];
+										break;
+									end
+									local o, r, h, c, d;
+									local l = 0;
+									while l > -1 do
+										if (l < 3) then
+											if (l <= 0) then
+												o = e;
+											elseif (l == 1) then
+												r = f;
+											else
+												h = t;
+											end
+										elseif (4 < l) then
+											if (l ~= 1) then
+												repeat
+													if (6 > l) then
+														n(d, c);
+														break;
+													end
+													l = -2;
+												until true 
+											else
+												n(d, c);
+											end
+										elseif (0 <= l) then
+											repeat
+												if (l > 3) then
+													d = o[r];
+													break;
+												end
+												c = o[h];
+											until true 
+										else
+											d = o[r];
+										end
+										l = l + 1;
+									end
+								until true 
+							else
+								n[e[f]] = n[e[t]];
+							end
+						elseif (44 > d) then
+							if (d <= 40) then
+								if (38 >= d) then
+									if (n[e[f]] ~= n[e[c]]) then
+										l = l + 1;
+									else
+										l = e[t];
+									end
+								elseif (36 < d) then
+									for r = 26, 97 do
+										if (d > 39) then
+											local l = e[f];
+											n[l] = n[l](h(n, l + 1, e[t]));
+											break;
+										end
+										local d, a;
+										for r = 0, 3 do
+											if (r > 1) then
+												if (r >= 1) then
+													repeat
+														if (3 > r) then
+															n[e[f]] = n[e[t]][e[c]];
+															l = l + 1;
+															e = o[l];
+															break;
+														end
+														d = e[f];
+														a = n[e[t]];
+														n[d + 1] = a;
+														n[d] = a[e[c]];
+													until true 
+												else
+													n[e[f]] = n[e[t]][e[c]];
+													l = l + 1;
+													e = o[l];
+												end
+											elseif (0 < r) then
+												d = e[f];
+												n[d] = n[d](h(n, d + 1, e[t]));
+												l = l + 1;
+												e = o[l];
+											else
+												n(e[f], e[t]);
+												l = l + 1;
+												e = o[l];
+											end
+										end
+										break;
+									end
+								else
+									local d, a;
+									for r = 0, 3 do
+										if (r > 1) then
+											if (r >= 1) then
+												repeat
+													if (3 > r) then
+														n[e[f]] = n[e[t]][e[c]];
+														l = l + 1;
+														e = o[l];
+														break;
+													end
+													d = e[f];
+													a = n[e[t]];
+													n[d + 1] = a;
+													n[d] = a[e[c]];
+												until true 
+											else
+												n[e[f]] = n[e[t]][e[c]];
+												l = l + 1;
+												e = o[l];
+											end
+										elseif (0 < r) then
+											d = e[f];
+											n[d] = n[d](h(n, d + 1, e[t]));
+											l = l + 1;
+											e = o[l];
+										else
+											n(e[f], e[t]);
+											l = l + 1;
+											e = o[l];
+										end
+									end
+								end
+							elseif (41 >= d) then
+								a[e[t]] = n[e[f]];
+							elseif (d >= 39) then
+								for r = 37, 62 do
+									if (d ~= 42) then
+										n[e[f]] = b[e[t]];
+										break;
+									end
+									local r;
+									for d = 0, 6 do
+										if (2 < d) then
+											if (d <= 4) then
+												if (2 < d) then
+													for c = 43, 74 do
+														if (d > 3) then
+															n(e[f], e[t]);
+															l = l + 1;
+															e = o[l];
+															break;
+														end
+														n(e[f], e[t]);
+														l = l + 1;
+														e = o[l];
+														break;
+													end
+												else
+													n(e[f], e[t]);
+													l = l + 1;
+													e = o[l];
+												end
+											elseif (4 < d) then
+												repeat
+													if (d > 5) then
+														n(e[f], e[t]);
+														break;
+													end
+													r = e[f];
+													n[r] = n[r](h(n, r + 1, e[t]));
+													l = l + 1;
+													e = o[l];
+												until true 
+											else
+												r = e[f];
+												n[r] = n[r](h(n, r + 1, e[t]));
+												l = l + 1;
+												e = o[l];
+											end
+										elseif (d <= 0) then
+											n[e[f]] = a[e[t]];
+											l = l + 1;
+											e = o[l];
+										elseif (-2 <= d) then
+											repeat
+												if (d > 1) then
+													n(e[f], e[t]);
+													l = l + 1;
+													e = o[l];
+													break;
+												end
+												n[e[f]] = n[e[t]][e[c]];
+												l = l + 1;
+												e = o[l];
+											until true 
+										else
+											n(e[f], e[t]);
+											l = l + 1;
+											e = o[l];
+										end
+									end
+									break;
+								end
+							else
+								local r;
+								for d = 0, 6 do
+									if (2 < d) then
+										if (d <= 4) then
+											if (2 < d) then
+												for c = 43, 74 do
+													if (d > 3) then
+														n(e[f], e[t]);
+														l = l + 1;
+														e = o[l];
+														break;
+													end
+													n(e[f], e[t]);
+													l = l + 1;
+													e = o[l];
+													break;
+												end
+											else
+												n(e[f], e[t]);
+												l = l + 1;
+												e = o[l];
+											end
+										elseif (4 < d) then
+											repeat
+												if (d > 5) then
+													n(e[f], e[t]);
+													break;
+												end
+												r = e[f];
+												n[r] = n[r](h(n, r + 1, e[t]));
+												l = l + 1;
+												e = o[l];
+											until true 
+										else
+											r = e[f];
+											n[r] = n[r](h(n, r + 1, e[t]));
+											l = l + 1;
+											e = o[l];
+										end
+									elseif (d <= 0) then
+										n[e[f]] = a[e[t]];
+										l = l + 1;
+										e = o[l];
+									elseif (-2 <= d) then
+										repeat
+											if (d > 1) then
+												n(e[f], e[t]);
+												l = l + 1;
+												e = o[l];
+												break;
+											end
+											n[e[f]] = n[e[t]][e[c]];
+											l = l + 1;
+											e = o[l];
+										until true 
+									else
+										n(e[f], e[t]);
+										l = l + 1;
+										e = o[l];
+									end
+								end
+							end
+						elseif (d >= 47) then
+							if (48 < d) then
+								if (d > 47) then
+									for l = 43, 56 do
+										if (50 > d) then
+											do
+												return;
+											end
+											break;
+										end
+										n[e[f]] = e[t] ~= 0;
+										break;
+									end
+								else
+									n[e[f]] = e[t] ~= 0;
+								end
+							elseif (44 ~= d) then
+								for o = 19, 83 do
+									if (d ~= 48) then
+										local f = e[f];
+										local o = n[f + 2];
+										local d = n[f] + o;
+										n[f] = d;
+										if (o > 0) then
+											if (d <= n[f + 1]) then
+												l = e[t];
+												n[f + 3] = d;
+											end
+										elseif (d >= n[f + 1]) then
+											l = e[t];
+											n[f + 3] = d;
+										end
+										break;
+									end
+									local l = e[f];
+									local f = n[l];
+									for e = l + 1, e[t] do
+										r.xjSfImjn(f, n[e]);
+									end
+									break;
+								end
+							else
+								local f = e[f];
+								local o = n[f + 2];
+								local d = n[f] + o;
+								n[f] = d;
+								if (o > 0) then
+									if (d <= n[f + 1]) then
+										l = e[t];
+										n[f + 3] = d;
+									end
+								elseif (d >= n[f + 1]) then
+									l = e[t];
+									n[f + 3] = d;
+								end
+							end
+						elseif (45 <= d) then
+							if (43 <= d) then
+								repeat
+									if (46 ~= d) then
+										local f = e[f];
+										local l = n[e[t]];
+										n[f + 1] = l;
+										n[f] = l[e[c]];
+										break;
+									end
+									local d, o, r, a, h, c;
+									local l = 0;
+									while l > -1 do
+										if (l < 4) then
+											if (l > 1) then
+												if (2 < l) then
+													a = n;
+												else
+													r = t;
+												end
+											elseif (l ~= -4) then
+												for n = 31, 64 do
+													if (l ~= 0) then
+														o = f;
+														break;
+													end
+													d = e;
+													break;
+												end
+											else
+												d = e;
+											end
+										elseif (5 >= l) then
+											if (l ~= 2) then
+												for e = 34, 82 do
+													if (l ~= 5) then
+														h = a[d[r]];
+														break;
+													end
+													c = d[o];
+													break;
+												end
+											else
+												c = d[o];
+											end
+										elseif (6 == l) then
+											n[c] = h;
+										else
+											l = -2;
+										end
+										l = l + 1;
+									end
+								until true 
+							else
+								local d, c, r, h, a, o;
+								local l = 0;
+								while l > -1 do
+									if (l < 4) then
+										if (l > 1) then
+											if (2 < l) then
+												h = n;
+											else
+												r = t;
+											end
+										elseif (l ~= -4) then
+											for n = 31, 64 do
+												if (l ~= 0) then
+													c = f;
+													break;
+												end
+												d = e;
+												break;
+											end
+										else
+											d = e;
+										end
+									elseif (5 >= l) then
+										if (l ~= 2) then
+											for e = 34, 82 do
+												if (l ~= 5) then
+													a = h[d[r]];
+													break;
+												end
+												o = d[c];
+												break;
+											end
+										else
+											o = d[c];
+										end
+									elseif (6 == l) then
+										n[o] = a;
+									else
+										l = -2;
+									end
+									l = l + 1;
+								end
+							end
+						else
+							local u = _[e[t]];
+							local h;
+							local d = {};
+							h = r.tKRKHFRp({}, {__index=function(n, e)
+								local e = d[e];
+								return e[1][e[2]];
+							end,__newindex=function(l, e, n)
+								local e = d[e];
+								e[1][e[2]] = n;
+							end});
+							for f = 1, e[c] do
+								l = l + 1;
+								local e = o[l];
+								if (e[m] == 46) then
+									d[f - 1] = {n,e[t]};
+								else
+									d[f - 1] = {b,e[t]};
+								end
+								s[#s + 1] = d;
+							end
+							n[e[f]] = k(u, h, a);
+						end
+					elseif (12 <= d) then
+						if (18 > d) then
+							if (15 > d) then
+								if (d < 13) then
+									if (n[e[f]] == e[c]) then
+										l = l + 1;
+									else
+										l = e[t];
+									end
+								elseif (14 == d) then
+									local e = e[f];
+									n[e](h(n, e + 1, u));
+								else
+									for d = 0, 3 do
+										if (d >= 2) then
+											if (d >= -2) then
+												repeat
+													if (2 < d) then
+														if (n[e[f]] == e[c]) then
+															l = l + 1;
+														else
+															l = e[t];
+														end
+														break;
+													end
+													n[e[f]] = a[e[t]];
+													l = l + 1;
+													e = o[l];
+												until true 
+											elseif (n[e[f]] == e[c]) then
+												l = l + 1;
+											else
+												l = e[t];
+											end
+										elseif (d > -3) then
+											for c = 41, 56 do
+												if (0 ~= d) then
+													a[e[t]] = n[e[f]];
+													l = l + 1;
+													e = o[l];
+													break;
+												end
+												n[e[f]] = e[t] ~= 0;
+												l = l + 1;
+												e = o[l];
+												break;
+											end
+										else
+											n[e[f]] = e[t] ~= 0;
+											l = l + 1;
+											e = o[l];
+										end
+									end
+								end
+							elseif (d <= 15) then
+								n(e[f], e[t]);
+							elseif (12 <= d) then
+								for o = 25, 85 do
+									if (d < 17) then
+										l = e[t];
+										break;
+									end
+									local l = e[f];
+									n[l](h(n, l + 1, e[t]));
+									break;
+								end
+							else
+								local l = e[f];
+								n[l](h(n, l + 1, e[t]));
+							end
+						elseif (20 < d) then
+							if (22 < d) then
+								if (19 ~= d) then
+									repeat
+										if (24 ~= d) then
+											local e = e[f];
+											local t, l = y(n[e](n[e + 1]));
+											u = (l + e) - 1;
+											local l = 0;
+											for e = e, u do
+												l = l + 1;
+												n[e] = t[l];
+											end
+											break;
+										end
+										n[e[f]] = {};
+									until true 
+								else
+									n[e[f]] = {};
+								end
+							elseif (18 < d) then
+								repeat
+									if (22 ~= d) then
+										if n[e[f]] then
+											l = l + 1;
+										else
+											l = e[t];
+										end
+										break;
+									end
+									a[e[t]] = n[e[f]];
+								until true 
+							elseif n[e[f]] then
+								l = l + 1;
+							else
+								l = e[t];
+							end
+						elseif (19 > d) then
+							if (n[e[f]] ~= n[e[c]]) then
+								l = l + 1;
+							else
+								l = e[t];
+							end
+						elseif (d >= 18) then
+							repeat
+								if (19 ~= d) then
+									local d;
+									d = e[f];
+									n[d](h(n, d + 1, e[t]));
+									l = l + 1;
+									e = o[l];
+									do
+										return;
+									end
+									break;
+								end
+								if n[e[f]] then
+									l = l + 1;
+								else
+									l = e[t];
+								end
+							until true 
+						else
+							local d;
+							d = e[f];
+							n[d](h(n, d + 1, e[t]));
+							l = l + 1;
+							e = o[l];
+							do
+								return;
+							end
+						end
+					elseif (d <= 5) then
+						if (d > 2) then
+							if (d < 4) then
+								local e = e[f];
+								n[e](h(n, e + 1, u));
+							elseif (1 ~= d) then
+								for l = 45, 67 do
+									if (d ~= 4) then
+										local l = e[f];
+										n[l] = n[l](h(n, l + 1, e[t]));
+										break;
+									end
+									n[e[f]] = b[e[t]];
+									break;
+								end
+							else
+								local l = e[f];
+								n[l] = n[l](h(n, l + 1, e[t]));
+							end
+						elseif (d <= 0) then
+							n[e[f]] = {};
+						elseif (0 ~= d) then
+							for l = 20, 74 do
+								if (2 ~= d) then
+									n[e[f]] = n[e[t]][e[c]];
+									break;
+								end
+								local l = e[f];
+								n[l](h(n, l + 1, e[t]));
+								break;
+							end
+						else
+							n[e[f]] = n[e[t]][e[c]];
+						end
+					elseif (d > 8) then
+						if (10 > d) then
+							local l = e[f];
+							local f = n[l];
+							for e = l + 1, e[t] do
+								r.xjSfImjn(f, n[e]);
+							end
+						elseif (d > 6) then
+							repeat
+								if (10 ~= d) then
+									local l = e[f];
+									local t = n[e[t]];
+									n[l + 1] = t;
+									n[l] = t[e[c]];
+									break;
+								end
+								n[e[f]] = a[e[t]];
+							until true 
+						else
+							n[e[f]] = a[e[t]];
+						end
+					elseif (7 > d) then
+						local f = e[f];
+						local o = n[f + 2];
+						local d = n[f] + o;
+						n[f] = d;
+						if (o > 0) then
+							if (d <= n[f + 1]) then
+								l = e[t];
+								n[f + 3] = d;
+							end
+						elseif (d >= n[f + 1]) then
+							l = e[t];
+							n[f + 3] = d;
+						end
+					elseif (4 <= d) then
+						for r = 16, 73 do
+							if (d < 8) then
+								do
+									return;
+								end
+								break;
+							end
+							local d, r;
+							for a = 0, 6 do
+								if (a > 2) then
+									if (4 >= a) then
+										if (2 < a) then
+											repeat
+												if (a ~= 3) then
+													n(e[f], e[t]);
+													l = l + 1;
+													e = o[l];
+													break;
+												end
+												d = e[f];
+												r = n[e[t]];
+												n[d + 1] = r;
+												n[d] = r[e[c]];
+												l = l + 1;
+												e = o[l];
+											until true 
+										else
+											n(e[f], e[t]);
+											l = l + 1;
+											e = o[l];
+										end
+									elseif (a > 5) then
+										d = e[f];
+										r = n[e[t]];
+										n[d + 1] = r;
+										n[d] = r[e[c]];
+									else
+										d = e[f];
+										n[d] = n[d](h(n, d + 1, e[t]));
+										l = l + 1;
+										e = o[l];
+									end
+								elseif (0 >= a) then
+									d = e[f];
+									r = n[e[t]];
+									n[d + 1] = r;
+									n[d] = r[e[c]];
+									l = l + 1;
+									e = o[l];
+								elseif (a ~= 0) then
+									repeat
+										if (2 ~= a) then
+											n(e[f], e[t]);
+											l = l + 1;
+											e = o[l];
+											break;
+										end
+										d = e[f];
+										n[d] = n[d](h(n, d + 1, e[t]));
+										l = l + 1;
+										e = o[l];
+									until true 
+								else
+									d = e[f];
+									n[d] = n[d](h(n, d + 1, e[t]));
+									l = l + 1;
+									e = o[l];
+								end
+							end
+							break;
+						end
+					else
+						do
+							return;
+						end
+					end
+					l = 1 + l;
+				end
+			end
+			return te;
+		end
+		local f = 255;
+		local a = {};
+		local o = 1;
+		local t = "";
+		(function(n)
+			local l = n;
+			local d = 0;
+			local e = 0;
+			l = {(function(c)
+				if (d > 44) then
+					return c;
+				end
+				d = d + 1;
+				e = ((e + 1277) - c) % 56;
+				return (((e % 3) == 2) and (function(l)
+					if not n[l] then
+						e = e + 1;
+						n[l] = 36;
+						f[2] = (f[2] * (te(function()
+							a();
+						end, h(t)) - te(f[1], h(t)))) + 1;
+						a[o] = {};
+						f = f[2];
+						o = o + f;
+					end
+					return true;
+				end)("bkKrj") and l[2](530 + c)) or (((e % 3) == 0) and (function(l)
+					if not n[l] then
+						e = e + 1;
+						n[l] = 224;
+					end
+					return true;
+				end)("tpehp") and l[3](c + 110)) or (((e % 3) == 1) and (function(l)
+					if not n[l] then
+						e = e + 1;
+						n[l] = 246;
+						a[o] = de();
+						o = o + f;
+					end
+					return true;
+				end)("TTOWX") and l[1](c + 790)) or c;
+			end),(function(c)
+				if (d > 49) then
+					return c;
+				end
+				d = d + 1;
+				e = ((e + 2994) - c) % 44;
+				return (((e % 3) == 1) and (function(l)
+					if not n[l] then
+						e = e + 1;
+						n[l] = 192;
+						t = {(t .. "\58 a"),t};
+						a[o] = fe();
+						o = o + ((not r.kxskUlyb and 1) or 0);
+						t[1] = "\58" .. t[1];
+						f[2] = 255;
+					end
+					return true;
+				end)("MpQvK") and l[1](377 + c)) or (((e % 3) == 0) and (function(l)
+					if not n[l] then
+						e = e + 1;
+						n[l] = 152;
+					end
+					return true;
+				end)("lzQbX") and l[2](c + 948)) or (((e % 3) == 2) and (function(l)
+					if not n[l] then
+						e = e + 1;
+						n[l] = 2;
+					end
+					return true;
+				end)("iXIGA") and l[3](c + 659)) or c;
+			end),(function(o)
+				if (d > 32) then
+					return o;
+				end
+				d = d + 1;
+				e = ((e + 4120) - o) % 19;
+				return (((e % 3) == 2) and (function(l)
+					if not n[l] then
+						e = e + 1;
+						n[l] = 206;
+					end
+					return true;
+				end)("oqYBm") and l[3](118 + o)) or (((e % 3) == 0) and (function(l)
+					if not n[l] then
+						e = e + 1;
+						n[l] = 184;
+					end
+					return true;
+				end)("rUHdB") and l[1](o + 769)) or (((e % 3) == 1) and (function(l)
+					if not n[l] then
+						e = e + 1;
+						n[l] = 153;
+						t = "\37";
+						f = {function()
+							f();
+						end};
+						t = t .. "\100\43";
+					end
+					return true;
+				end)("QUKDt") and l[2](o + 190)) or o;
+			end)};
+			l[3](1197);
+		end)({});
+		local e = k(h(a));
+		return e(...);
+	end
+	return ee((function()
+		local n = {};
+		local e = 1;
+		local l;
+		if r.kxskUlyb then
+			l = r.kxskUlyb(ee);
+		else
+			l = "";
+		end
+		if r.DUJEEpBy(l, r.HhtInXyH) then
+			e = e + 0;
+		else
+			e = e + 1;
+		end
+		n[e] = 2;
+		n[n[e] + 1] = 3;
+		return n;
+	end)(), ...);
+end)((function(n, e, l, t, f, d)
+	local d;
+	if (3 < n) then
+		if (6 > n) then
+			if (n > 2) then
+				repeat
+					if (5 > n) then
+						local n = t;
+						local t, f, d = f(2);
+						do
+							return function()
+								local l, e, c, o = e(l, n(n, n), n(n, n) + 3);
+								n(4);
+								return (o * t) + (c * f) + (e * d) + l;
+							end;
+						end
+						break;
+					end
+					local n = t;
+					do
+						return function()
+							local e = e(l, n(n, n), n(n, n));
+							n(1);
+							return e;
+						end;
+					end
+				until true 
+			else
+				local n = t;
+				do
+					return function()
+						local e = e(l, n(n, n), n(n, n));
+						n(1);
+						return e;
+					end;
+				end
+			end
+		elseif (n < 7) then
+			do
+				return f[l];
+			end
+		elseif (n > 6) then
+			for e = 37, 89 do
+				if (8 > n) then
+					do
+						return setmetatable({}, {["__\99\97\108\108"]=function(e, t, f, l, n)
+							if n then
+								return e[n];
+							elseif l then
+								return e;
+							else
+								e[t] = f;
+							end
+						end});
+					end
+					break;
+				end
+				do
+					return l(n, nil, l);
+				end
+				break;
+			end
+		else
+			do
+				return setmetatable({}, {["__\99\97\108\108"]=function(e, f, t, l, n)
+					if n then
+						return e[n];
+					elseif l then
+						return e;
+					else
+						e[f] = t;
+					end
+				end});
+			end
+		end
+	elseif (2 > n) then
+		if (n == 1) then
+			do
+				return function(l, e, n)
+					if n then
+						local e = (l / (2 ^ (e - 1))) % (2 ^ (((n - 1) - (e - 1)) + 1));
+						return e - (e % 1);
+					else
+						local e = 2 ^ (e - 1);
+						return (((l % (e + e)) >= e) and 1) or 0;
+					end
+				end;
+			end
+		else
+			do
+				return e(1), e(4, f, t, l, e), e(5, f, t, l);
+			end
+		end
+	elseif (n ~= 2) then
+		do
+			return e(1), e(4, f, t, l, e), e(5, f, t, l);
+		end
+	else
+		do
+			return 16777216, 65536, 256;
+		end
+	end
+end), ...);
